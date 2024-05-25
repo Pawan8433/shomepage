@@ -8,14 +8,12 @@ This project is a responsive social media profile page created using HTML and CS
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
- 
 
 ## Demo
 
-![Profile Page Screenshot](![social media](https://github.com/Pawan8433/shomepage/assets/106168429/80a45922-f01d-4f22-b607-db586daf2330)
-)
+![Profile Page Screenshot](https://github.com/Pawan8433/shomepage/assets/106168429/80a45922-f01d-4f22-b607-db586daf2330)
 
-You can view a live demo of the project [here](!https://shomepage.vercel.app/).
+You can view a live demo of the project [here](https://shomepage.vercel.app/).
 
 ## Features
 
@@ -39,4 +37,4 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/social-media-profile-page.git
+   git clone https://github.com/Pawan8433/shomepage.git
