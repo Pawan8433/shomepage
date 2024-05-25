@@ -23,7 +23,7 @@ You can view a live demo of the project [here](https://shomepage.vercel.app/).
 - Interests section showcasing user interests.
 - Upcoming events section.
 - Sidebar with user groups, events, and photos.
-- Popup notification for profile views.
+ 
 
 ## Technologies Used
 
